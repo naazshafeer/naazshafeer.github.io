@@ -22,10 +22,4 @@ I am a sophomore undergraduate studying Physics/Computer Science at the Universi
 
 ## Hobbies
 Growing up, I used to spend the majority of my time reading books. _The Magic Tree House_, _Geronimo Stilton_, _Thea Stilton_ were some of the many books that fueled my imagination and love for fantasy worlds. Now, amidst the hustle of life and school, I escape into fantasy worlds created by my favorite authors whenever I can. Photography has also become one of my growing passions. I aim to perfect it and capture the world's beauty as I see it.
-
----
-profile:
-  align: right
-  image: hobbies.jpeg
-  image_circular: false # crops the image to make it circular
----
+![Hobby Image](assets/img/hobbies.jpeg)
