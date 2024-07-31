@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about
+permalink: /
 subtitle: Physics/CS sophomore at USC
 
 profile:
