@@ -16,9 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-title: About Me
-I am a sophomore undergraduate studying Physics/Computer Science at the University of Southern California. I am currently in a Cosmology Research Group with Professor Kris Pardo and working closely with the graduate student, Mya Do. (I don't know what else to write here T_T)
-
 
 title: Hobbies
 Growing up, I used to spend the majority of my time reading books. _The Magic Tree House_, _Geronimo Stilton_, _Thea Stilton_ were on of the many books that had garnered my penchant for thinking outside the box- to imagine a world inside the confines of my mind. Now, in the hustle of life and school, I use any time that I have to escape into a fantasy world created by favorite authors. Photography has also become one of my growing passions this year. I aim to perfect it (as much as I can) and capture the world as I see in its beauty. 
