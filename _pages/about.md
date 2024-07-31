@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /
+title: About
+permalink: /about
 subtitle: Physics/CS sophomore at USC
 
 profile:
@@ -16,29 +16,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
----
-layout: About
-title: About Me
-permalink: /
----
-I am a sophomore undergraduate studying Physics/Computer Science at the University of Southern California. I am currently in a Cosmology Research Group with Professor Kris Pardo and working closely with the graduate student, Mya Do. (I don't know what else to write here T_T)
+## About Me
+I am a sophomore undergraduate studying Physics/Computer Science at the University of Southern California. I am currently in a Cosmology Research Group with Professor Kris Pardo and working closely with the graduate student, Mya Do.
 
+<a name="hobbies"></a>
+## Hobbies
+Growing up, I used to spend the majority of my time reading books. _The Magic Tree House_, _Geronimo Stilton_, _Thea Stilton_ were some of the many books that fueled my imagination and love for fantasy worlds. Now, amidst the hustle of life and school, I escape into fantasy worlds created by my favorite authors whenever I can. Photography has also become one of my growing passions. I aim to perfect it and capture the world's beauty as I see it.
 
----
-layout: About
-title: Hobbies
-permalink: /
+<a name="contact"></a>
+## Contact Information
+Feel free to reach out to me through email or connect with me on LinkedIn and GitHub.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Everett, WA | Los Angeles, CA</p>
----
-
-Growing up, I used to spend the majority of my time reading books. _The Magic Tree House_, _Geronimo Stilton_, _Thea Stilton_ were on of the many books that had garnered my penchant for thinking outside the box- to imagine a world inside the confines of my mind. Now, in the hustle of life and school, I use any time that I have to escape into a fantasy world created by favorite authors. Photography has also become one of my growing passions this year. I aim to perfect it (as much as I can) and capture the world as I see in its beauty. 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>Everett, WA | Los Angeles, CA</p>
+<p>Email: youremail@example.com</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn</a></p>
+<p>GitHub: <a href="https://github.com/yourprofile">Your GitHub</a></p>
