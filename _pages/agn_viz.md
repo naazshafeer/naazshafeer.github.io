@@ -1,1 +1,1 @@
-Blah blah blah, will update this later, just want to check if this is actually working
+The image to the left is a visualization done to show the dual AGN. The intensity bar represents how as you get closer to the core of the AGN, the more intense it will be, hence brighter. This is one of the projects that I completed to enhance my abilities in data visualization and image presentation. With Mya Do's mentorship and guidance, I could fully understand the intricacies that go into visualization astronomical phenomenons.
