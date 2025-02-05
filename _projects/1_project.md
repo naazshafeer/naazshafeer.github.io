@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Simulating DF
+description: This is the model where I simulate dynamical friction (DF) on J1010
 img: assets/img/12.jpg
 importance: 1
 category: work
