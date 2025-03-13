@@ -10,99 +10,58 @@ nav_order: 2
 <style>
   .photo-container {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 60px; /* Increased margin for better spacing */
   }
 
   .photo-container img {
-    width: 40%; /* Adjust width */
+    width: 80%; /* Larger width for a more immersive look */
     height: auto;
-    margin-top: 10px;
+    margin-top: 20px; /* Increased top margin */
     border-radius: 5px; /* Optional: Subtle rounded effect */
-  }
-
-  .caption {
-    font-style: italic;
-    color: #555;
-    margin-top: 5px;
-  }
-
-  hr {
-    width: 60%;
-    border: none;
-    border-top: 2px solid #ddd;
-    margin: 30px auto;
   }
 </style>
 
 ## Sheikh Zayed Mosque
 <div class="photo-container">
   <img src="/assets/img/zayed.jpg" alt="Sheikh Zayed Mosque">
-  <p class="caption">This photo captures the stunning exterior of the Sheikh Zayed Mosque in Abu Dhabi, UAE. The perspective highlights the elegant symmetry of the columns, a technique often defined as leading lines.</p>
 </div>
-
-<hr>
 
 ## Light and Shadow on the Face
 <div class="photo-container">
   <img src="/assets/img/mogface.jpg" alt="Light and Shadow on the Face">
-  <p class="caption">This photo highlights the model’s facial structure, emphasizing its angularity through the natural interplay of sunlight and shadow.</p>
 </div>
-
-<hr>
 
 ## Clouds
 <div class="photo-container">
   <img src="/assets/img/sky.jpg" alt="Clouds">
-  <p class="caption"> This image captures the depth and texture of the clouds, highlighting their layered formations as they stretch across the sky.</p>
 </div>
-
-<hr>
 
 ## Brutalist
 <div class="photo-container">
   <img src="/assets/img/angularity.jpeg" alt="Angularity">
-  <p class="caption"> Clash of brutalist architecture with a ray of sunlight.</p>
 </div>
-<hr>
 
 ## Herbs Souq
 <div class="photo-container">
   <img src="/assets/img/souq.jpg" alt="Herbs Souq">
-  <p class="caption"> Highlight of Herbs Souq in Dubai, UAE.</p>
 </div>
-
-<hr>
 
 ## Sun Glare
 <div class="photo-container">
   <img src="/assets/img/wheat.jpg" alt="Wheat">
-  <p class="caption"> </p>
 </div>
-
-<hr>
 
 ## Koenigsegg
 <div class="photo-container">
-  <img src="/assets/img/koenigsegg.jpg" alt="Wheat">
-  <p class="caption"> A rare sighting of 2021 Koenigsegg Regera in Red.</p>
+  <img src="/assets/img/koenigsegg.jpg" alt="Koenigsegg">
 </div>
-
-<hr>
 
 ## Sacramento in SF
 <div class="photo-container">
-  <img src="/assets/img/sacrementor.jpeg" alt="Wheat">
-  <p class="caption"> A snippet of Sacramento in San Francisco.</p>
+  <img src="/assets/img/sacrementor.jpeg" alt="Sacramento in SF">
 </div>
-
-<hr>
 
 ## Professional Headshot
 <div class="photo-container">
-  <img src="/assets/img/profheadshot.jpg" alt="Wheat">
-  <p class="caption"> A professional headshot of phD student Eleanor Stuart.</p>
+  <img src="/assets/img/profheadshot.jpg" alt="Professional Headshot">
 </div>
-
-<hr>
-
-
