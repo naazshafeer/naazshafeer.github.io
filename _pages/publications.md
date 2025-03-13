@@ -58,8 +58,22 @@ nav_order: 2
 
 <hr>
 
-## Brutalist Angularity
+## Brutalist
 <div class="photo-container">
   <img src="/assets/img/angularity.jpeg" alt="Angularity">
   <p class="caption"> Clash of brutalist architecture with a ray of sunlight.</p>
 </div>
+
+## Herbs Souq
+<div class="photo-container">
+  <img src="/assets/img/souq.jpg" alt="Herbs Souq">
+  <p class="caption"> Highlight of Herbs Souq in Dubai, UAE.</p>
+</div>
+
+## Sun Glare
+<div class="photo-container">
+  <img src="/assets/img/wheat.jpg" alt="Wheat">
+  <p class="caption"> </p>
+</div>
+
+
