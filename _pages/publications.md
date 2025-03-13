@@ -8,60 +8,29 @@ nav_order: 2
 ---
 
 <style>
-  .photo-container {
-    text-align: center;
-    margin-bottom: 60px; /* Increased margin for better spacing */
+  .photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid with minimum column width of 300px */
+    gap: 20px; /* Spacing between images */
+    padding: 20px;
   }
 
-  .photo-container img {
-    width: 80%; /* Larger width for a more immersive look */
-    height: auto;
-    margin-top: 20px; /* Increased top margin */
-    border-radius: 5px; /* Optional: Subtle rounded effect */
+  .photo-grid img {
+    width: 100%; /* Images fill their grid cells */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 15px; /* Optional: Subtle rounded corners */
+    display: block; /* Remove extra space below images */
   }
 </style>
 
-## Sheikh Zayed Mosque
-<div class="photo-container">
+<div class="photo-grid">
   <img src="/assets/img/zayed.jpg" alt="Sheikh Zayed Mosque">
-</div>
-
-## Light and Shadow on the Face
-<div class="photo-container">
   <img src="/assets/img/mogface.jpg" alt="Light and Shadow on the Face">
-</div>
-
-## Clouds
-<div class="photo-container">
   <img src="/assets/img/sky.jpg" alt="Clouds">
-</div>
-
-## Brutalist
-<div class="photo-container">
   <img src="/assets/img/angularity.jpeg" alt="Angularity">
-</div>
-
-## Herbs Souq
-<div class="photo-container">
   <img src="/assets/img/souq.jpg" alt="Herbs Souq">
-</div>
-
-## Sun Glare
-<div class="photo-container">
   <img src="/assets/img/wheat.jpg" alt="Wheat">
-</div>
-
-## Koenigsegg
-<div class="photo-container">
   <img src="/assets/img/koenigsegg.jpg" alt="Koenigsegg">
-</div>
-
-## Sacramento in SF
-<div class="photo-container">
   <img src="/assets/img/sacrementor.jpeg" alt="Sacramento in SF">
-</div>
-
-## Professional Headshot
-<div class="photo-container">
   <img src="/assets/img/profheadshot.jpg" alt="Professional Headshot">
 </div>
