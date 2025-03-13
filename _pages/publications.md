@@ -63,6 +63,7 @@ nav_order: 2
   <img src="/assets/img/angularity.jpeg" alt="Angularity">
   <p class="caption"> Clash of brutalist architecture with a ray of sunlight.</p>
 </div>
+<hr>
 
 ## Herbs Souq
 <div class="photo-container">
@@ -70,10 +71,38 @@ nav_order: 2
   <p class="caption"> Highlight of Herbs Souq in Dubai, UAE.</p>
 </div>
 
+<hr>
+
 ## Sun Glare
 <div class="photo-container">
   <img src="/assets/img/wheat.jpg" alt="Wheat">
   <p class="caption"> </p>
 </div>
+
+<hr>
+
+## Koenigsegg
+<div class="photo-container">
+  <img src="/assets/img/koenigsegg.jpg" alt="Wheat">
+  <p class="caption"> A rare sighting of 2021 Koenigsegg Regera in Red.</p>
+</div>
+
+<hr>
+
+## Sacramento in SF
+<div class="photo-container">
+  <img src="/assets/img/sacrementor.jpg" alt="Wheat">
+  <p class="caption"> A snippet of Sacramento in San Francisco.</p>
+</div>
+
+<hr>
+
+## Professional Headshot
+<div class="photo-container">
+  <img src="/assets/img/profheadshot.jpg" alt="Wheat">
+  <p class="caption"> A professional headshot of phD student Eleanor Stuart.</p>
+</div>
+
+<hr>
 
 
