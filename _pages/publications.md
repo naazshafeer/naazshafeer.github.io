@@ -47,3 +47,19 @@ nav_order: 2
   <img src="/assets/img/mogface.jpg" alt="Light and Shadow on the Face">
   <p class="caption">This photo highlights the model’s facial structure, emphasizing its angularity through the natural interplay of sunlight and shadow.</p>
 </div>
+
+<hr>
+
+## Clouds
+<div class="photo-container">
+  <img src="/assets/img/sky.jpg" alt="Clouds">
+  <p class="caption"> This image captures the depth and texture of the clouds, highlighting their layered formations as they stretch across the sky.</p>
+</div>
+
+<hr>
+
+## Brutalist Angularity
+<div class="photo-container">
+  <img src="/assets/img/angularity.jpeg" alt="Angularity">
+  <p class="caption"> Clash of brutalist architecture with a ray of sunlight.</p>
+</div>
