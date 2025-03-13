@@ -31,17 +31,20 @@ nav_order: 2
 
   /* Full-width image styling */
   .full-width {
-    flex: 1 1 100%; /* Take up full width */
+    width: 100%; /* Take up full width */
     max-width: 100%; /* Ensure it spans the entire container */
+    height: auto; /* Maintain aspect ratio */
     border-radius: 0; /* Remove rounded corners for full-width images */
+    display: block; /* Ensure the image behaves as a block element */
+    margin: 0 auto; /* Center the image horizontally */
   }
 
   /* Style for the horizontal line */
-   hr {
-  border: 0;
-  height: 1px;
-  background: linear-gradient(to right, transparent, #000, transparent); /* Gradient line */
-  margin: 40px 0;
+  hr {
+    border: 0;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #000, transparent); /* Gradient line */
+    margin: 40px 0;
   }
 
   /* Adjust for smaller screens */
@@ -64,7 +67,7 @@ nav_order: 2
 <hr>
 
 <!-- Full-width "Eye" image -->
-<div class="photo-grid">
+<div>
   <img src="/assets/img/eye.jpg" alt="Eye with Prime Lens" class="full-width">
 </div>
 
