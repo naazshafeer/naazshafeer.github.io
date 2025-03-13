@@ -91,7 +91,7 @@ nav_order: 2
 
 ## Sacramento in SF
 <div class="photo-container">
-  <img src="/assets/img/sacrementor.jpg" alt="Wheat">
+  <img src="/assets/img/sacrementor.jpeg" alt="Wheat">
   <p class="caption"> A snippet of Sacramento in San Francisco.</p>
 </div>
 
