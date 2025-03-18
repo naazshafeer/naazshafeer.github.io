@@ -2,96 +2,92 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Naazneen Shafeer Vemmerath Kulangara
+    - name: Location
+      value: Los Angeles, CA & Everett, WA
+    - name: Email
+      value: naazshafeer@gmail.com
     - name: Languages
-      value: English, German
+      value: English, Malayalam
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. in Physics
+      institution: University of Southern California
+      year: Expected 2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Relevant Coursework: Introduction to Programming, Advanced Principles of Physics III.
+    - title: AAS-DTA (Physics & Astronomy)
+      institution: Everett Community College
+      year: 2021-2023
+    - title: Certificate in Aerospace Composites Foundation
+      institution: Everett Community College
+      year: 2022
+    - title: High School Diploma
+      institution: Cascade High School
+      year: 2019-2023
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated in the top 10% of class.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Technical Skills
+      items:
+        - Python, C++, LaTeX, Blender, SolidWorks, Office 365
+        - Machine Shop Safety
+    - title: Soft Skills
+      items:
+        - Leadership & Collaboration
+        - Diligent Communicator
+        - Hardworking & Efficient
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Researcher
+      institution: USC Cosmology Research Lab
+      year: Jan 2024 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Collaborating with Prof. Kris Pardo and Ph.D. student Mya Do.
+        - Refining theoretical models for dynamical friction and visualizing dual AGNs.
+    - title: Vice President of Extracurricular Affairs
+      institution: USC Society of Physics Students
+      year: Jan 2024 – Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Lead extracurricular initiatives for USC’s premier physics club.
+        - Organize events connecting physics students across Greater Los Angeles.
+        - Inspire students to explore opportunities and become pioneers in their passions.
+    - title: Youth Aerospace Program Intern
+      institution: Evergreen Goodwill, Seattle, WA
+      year: July 2022 – June 2023
       description:
+        - Elected President of the Student Council, leading 15 peers.
+        - Organized events connecting students with aerospace professionals.
+        - Led a startup concept developing lightweight carbon-fiber aircraft seats, pitched in a "Shark Tank"-style competition.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research & Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Cosmology Research (2024 – Present)
+      description:
+        - Simulating supermassive black hole binary mergers.
+        - Addressing unresolved components of dynamical friction and its effects.
+    - title: Astrophysics Research (2022 – 2023)
+      description:
+        - Investigated black hole GRS 1915+105.
+        - Modeled stable planetary orbits and habitability in X-ray binary systems.
 
-- title: Honors and Awards
+- title: Leadership & Extracurriculars
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Undergraduate Director
+      institution: PAMP
+      year: 09/24 – Present
+    - title: Lab Technician
+      institution: 3D4E
+      year: 10/23 – Present
+    - title: Undergraduate Representative
+      institution: Physics Climate Committee
+      year: 11/24 – Present
