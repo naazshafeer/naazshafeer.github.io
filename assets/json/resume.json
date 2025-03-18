@@ -4,7 +4,6 @@
     "label": "Physics Undergraduate & Researcher",
     "image": "",
     "email": "naazshafeer@gmail.com",
-    "phone": "+1(425) 241-9316",
     "url": "https://naazshafeer.github.io/",
     "summary": "Aspiring physicist and undergraduate researcher at the University of Southern California, specializing in cosmology and astrophysics.",
     "location": {
@@ -27,7 +26,7 @@
       "area": "Physics",
       "startDate": "2023-08-01",
       "endDate": "2027-05-01",
-      "courses": ["Introduction to Programming", "Advanced Principles of Physics III"]
+      "courses": ["Introduction to Programming", "Advanced Principles of Physics III, Methods of Computational Physics"]
     },
     {
       "institution": "Everett Community College",
@@ -59,7 +58,7 @@
     },
     {
       "name": "USC Society of Physics Students",
-      "position": "Vice President of Extracurricular Affairs",
+      "position": "President",
       "startDate": "2024-01-01",
       "summary": "Lead extracurricular initiatives, organize events connecting physics students across Greater Los Angeles, and foster networking opportunities."
     },
