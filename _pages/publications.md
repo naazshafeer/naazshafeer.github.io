@@ -2,7 +2,7 @@
 layout: page
 permalink: /portfolio/
 title: Portfolio
-description: This is a portfolio of my photography. Scroll through and see through the lens of my camera!
+description: This is a portfolio of my photography. Scroll through and see through the lens of my camera! There is a section on the professional headshots that I have taken!
 nav: true
 nav_order: 2
 ---
@@ -86,4 +86,16 @@ nav_order: 2
   <img src="/assets/img/sacrementor.jpeg" alt="Sacramento in SF">
   <img src="/assets/img/profheadshot.jpg" alt="Professional Headshot">
   <img src="/assets/img/birds.jpg" alt="Alignment of Birds">
+</div>
+
+<hr>
+
+<div class="photo-grid">
+  <img src="/assets/img/profheadshot.jpg" alt="Professional Headshot">
+  <img src="/assets/img/prof1.jpg" alt="Professional Headshot">
+  <img src="/assets/img/prof2.jpg" alt="Professional Headshot">
+  <img src="/assets/img/prof3.jpg" alt="Professional Headshot">
+  <img src="/assets/img/prof4.jpg" alt="Professional Headshot">
+
+
 </div>
