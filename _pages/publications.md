@@ -84,7 +84,6 @@ nav_order: 2
   <img src="/assets/img/wheat.jpg" alt="Wheat">
   <img src="/assets/img/koenigsegg.jpg" alt="Koenigsegg">
   <img src="/assets/img/sacrementor.jpeg" alt="Sacramento in SF">
-  <img src="/assets/img/profheadshot.jpg" alt="Professional Headshot">
   <img src="/assets/img/birds.jpg" alt="Alignment of Birds">
 </div>
 
